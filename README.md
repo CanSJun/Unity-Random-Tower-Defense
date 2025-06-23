@@ -1,2 +1,14 @@
 # Unity-Random-Tower-Defense
-Unity-Random-Tower-Defense
+프로젝트 이름 : 랜덤 타워 디펜스 (Random Tower Defense)
+
+개발 기간 : 2024.08.01 ~ 2024.08.19 (약 2주)
+
+게임 설명 : 플레이어가 적절한 타워 배치와 업그레이드를 통해 웨이브를 막아내는 게임
+
+개발 엔진 : Unity(2023.1.12f1)
+
+조작 : 키보드 및 마우스
+
+게임시점 : 3인칭
+
+플랫폼 : Windows
